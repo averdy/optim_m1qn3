@@ -21,7 +21,7 @@ SRC        = optim_main.F		\
 	     ddot.F
 
 EXEDIR     = .
-TOOLSDIR   = ../../MITgcm/tools
+TOOLSDIR   = ../../../MITgcm/tools
 
 INCLUDES   = -I. -I_GET_BLD_DIR
 
